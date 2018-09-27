@@ -1,0 +1,14 @@
+name: reticulate-r-base
+
+dependencies:
+  - python=3.6
+  - r-essentials
+  - r-base=3.5.1
+  - r-anomalydetection
+  - r-reticulate
+  - dask
+  - distributed
+  - ipython
+  - rpy2
+  - ipdb
+  - pytest
